@@ -35,7 +35,8 @@ Welcome to my journey through the **50 Days Coding Challenge** organized by my c
 |     | [Missing Number]           | ✅ Done         |
 | 2   | [Middile of Linked List]   | ✅ Done         |
 |     | [Add Digits]               | ✅ Done         |
-| 3   | [Problem Title 3]          | ✅ Done         |
+| 3   | [Merge Two Sorted Lists]   | ✅ Done         |
+|     | [Perfect Numbers]          | ✅ Done         |
 | 4   | [Problem Title 4]          | 🔁 In Progress  |
 | 5   | [Problem Title 5]          | ⏳ Pending      |
 | ... | ...                        | ...            |
