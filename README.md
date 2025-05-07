@@ -44,6 +44,8 @@ Welcome to my journey through the **50 Days Coding Challenge** organized by my c
 |     | [Remove Linked List Elements]  | ✅ Done    |
 | 7   | [Plus One]                     | ✅ Done    |
 |     | [Rotate List]                  | ✅ Done    |
+| 8   | [Odd Even Linked List]         | ✅ Done    |
+|     | [Excel Sheet Column Number]    | ✅ Done    |
 | ... | ...                            | ...        |
 | 50  | [Problem Title 50]             | ⏳ Pending |
 
