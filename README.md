@@ -50,6 +50,8 @@ Welcome to my journey through the **50 Days Coding Challenge** organized by my c
 |     | [Nth Digit]                              | ✅ Done    |
 | 10  | [Bulb Switcher]                          | ✅ Done    |
 |     | [Delete the Middle Node of Linked List]  | ✅ Done    |
+| 11  | [Factorial Trailing Zeroes]              | ✅ Done    |
+|     | [RemoveNth Node from the End of the List]| ✅ Done    |
 | ... | ...                                      | ...        |
 | 50  | [Problem Title 50]                       | ⏳ Pending |
 
