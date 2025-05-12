@@ -54,6 +54,8 @@ Welcome to my journey through the **50 Days Coding Challenge** organized by my c
 |     | [RemoveNth Node from the End of the List]| ✅ Done    |
 | 12  | [Insert GCD in Linked List]              | ✅ Done    |
 |     | [Count Odd Numbers In An Interval Range] | ✅ Done    |
+| 13  | [Sign of the Product Of an Array]        | ✅ Done    |
+|     | [Remove Duplicates from Sorted List II]  | ✅ Done    |
 | ... | ...                                      | ...        |
 | 50  | [Problem Title 50]                       | ⏳ Pending |
 
